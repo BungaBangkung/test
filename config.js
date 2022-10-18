@@ -80,62 +80,62 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282376267531', 'Aisyah', true],
-['6281361281833', 'Aldi', true]
+['6285777329413', 'Aditya', true],
+['6281361281833', 'Aldi', false]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown1 = '6281361281833'
-global.nomorown2 = '6282376267531'
+global.nomorbot = '6285777329413'
+global.nomorown = '_'
+global.nomorown1 = '6285777329413'
+global.nomorown2 = '_'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Aʟᴅɪ X Aɪsʏᴀʜ'
-global.namebot = '​ 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.author = 'Aditya'
+global.namebot = '​LilyBoy'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 LilyBoy'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.watermark = wm
 global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
+global.titlebot = `LilyBoy`
+global.stickpack = 'LilyBoy'
 global.stickauth = `© Yushino MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Aldi'
-global.nameown2 = 'Aisyah'
+global.nameown1= 'Aditya'
+global.nameown2 = 'Aditya'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.Linkgc = 'Gada🗿'
+global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/_b4c00t4an_s3l3b'
-global.sgh = 'https://github.com/hyuura-official' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sig = 'https://instagram.com/aditeigth'
+global.sgh = 'https://github.com/Bungabangkung' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
-global.povo = '-'
-global.pgopay = '0813 6128 1833'
+global.pdana = '085777329413'
+global.povo = '085777329413'
+global.pgopay = '085777329413'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '085777329413'
+global.ppulsa2 = '-'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = 'Gada sewa menyewa ngabs🗿'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -302,10 +302,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg'
+global.thumb = 'https://telegra.ph/Poppy-10-18-2' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/Poppy-10-18-2'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/d228cf9e49e7413568a1c.jpg']
+global.thumbs = ['https://telegra.ph/Poppy-10-18-2']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -342,10 +342,10 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 'https://telegra.ph/file/180e28807e78419d45537.jpg','https://telegra.ph/file/140eff27be983e0cd6781.jpg','https://telegra.ph/file/1581b791e16d0029e16b5.jpg','https://telegra.ph/file/6a4b36372b4f265bae3bc.jpg','https://telegra.ph/file/093caff422f194f00bc6c.jpg','https://telegra.ph/file/2294b7ab49eca8a8046b2.jpg','https://telegra.ph/file/869224d1c417e8b5c8ff1.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg','https://telegra.ph/file/1889878933264d16c58bf.jpg','https://telegra.ph/file/735aeb47d9c4aa87aaaf3.jpg','https://telegra.ph/file/fcf861516db09dda164e0.jpg','https://telegra.ph/file/355d96d7e06d109435f67.jpg']
 
 
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.dtu = 'Ig🗿'
+global.urlnya = "https://www.instagram.com/aditeigth"
+global.dtc = 'Contack me'
+global.phn = '085777329413'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
